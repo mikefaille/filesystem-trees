@@ -19,7 +19,7 @@ library
   build-depends:   base == 4.*
                  , directory >= 1.1 && < 1.4
                  , filepath >= 1.0 && < 2.0 
-                 , containers >= 0.1 && < 0.6
+                 , containers >= 0.6
                  , data-lens-light >= 0.1 && < 0.2
                  , dlist >= 0.2 && < 1.0
                  , mtl >= 1.0 && < 3.0
